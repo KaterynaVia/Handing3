@@ -1,0 +1,17 @@
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.csproj.AssemblyReference.cache
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.AssemblyInfoInputs.cache
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.AssemblyInfo.cs
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.csproj.CoreCompileInputs.cache
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\EfcDataAccess.deps.json
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\EfcDataAccess.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\EfcDataAccess.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\Application.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\Models.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\Application.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\Models.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.csproj.CopyComplete
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\refint\EfcDataAccess.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\ref\EfcDataAccess.dll

@@ -1,0 +1,180 @@
+{
+  "Users": [
+    {
+      "UserName": "maria",
+      "Password": null,
+      "Id": 1
+    },
+    {
+      "UserName": "dany",
+      "Password": null,
+      "Id": 2
+    },
+    {
+      "UserName": "stefan",
+      "Password": null,
+      "Id": 3
+    },
+    {
+      "UserName": "seva",
+      "Password": null,
+      "Id": 4
+    },
+    {
+      "UserName": "Hugo",
+      "Password": null,
+      "Id": 5
+    },
+    {
+      "UserName": "sophi",
+      "Password": null,
+      "Id": 6
+    },
+    {
+      "UserName": "tom",
+      "Password": null,
+      "Id": 7
+    },
+    {
+      "UserName": "jan",
+      "Password": "123",
+      "Id": 8
+    },
+    {
+      "UserName": "anna",
+      "Password": "123",
+      "Id": 9
+    },
+    {
+      "UserName": "hanna",
+      "Password": "123",
+      "Id": 10
+    },
+    {
+      "UserName": "kat",
+      "Password": "123",
+      "Id": 11
+    },
+    {
+      "UserName": "Kateryna",
+      "Password": "123",
+      "Id": 12
+    },
+    {
+      "UserName": "Dominika",
+      "Password": "123",
+      "Id": 13
+    },
+    {
+      "UserName": "Hugo",
+      "Password": "123",
+      "Id": 14
+    },
+    {
+      "UserName": "Sofia",
+      "Password": "123",
+      "Id": 15
+    }
+  ],
+  "Posts": [
+    {
+      "Id": 1,
+      "Owner": {
+        "UserName": "maria",
+        "Password": null,
+        "Id": 1
+      },
+      "Title": "hello",
+      "Body": "hello university",
+      "IsPrivate": false
+    },
+    {
+      "Id": 2,
+      "Owner": {
+        "UserName": "anna",
+        "Password": null,
+        "Id": 1
+      },
+      "Title": "Hello",
+      "Body": "november start soon ",
+      "IsPrivate": false
+    },
+    {
+      "Id": 3,
+      "Owner": {
+        "UserName": "hugo",
+        "Password": null,
+        "Id": 3
+      },
+      "Title": "hello hello",
+      "Body": "news",
+      "IsPrivate": false
+    },
+    {
+      "Id": 8,
+      "Owner": {
+        "UserName": "kat",
+        "Password": "123",
+        "Id": 11
+      },
+      "Title": "hello",
+      "Body": "gdfjgdfhg\u00E6f",
+      "IsPrivate": false
+    },
+    {
+      "Id": 9,
+      "Owner": {
+        "UserName": "kat",
+        "Password": "123",
+        "Id": 11
+      },
+      "Title": "hello",
+      "Body": "sdfkjs\u00E6dfj\u00E6shgf",
+      "IsPrivate": false
+    },
+    {
+      "Id": 10,
+      "Owner": {
+        "UserName": "tomino",
+        "Password": "hovnokleslo",
+        "Id": 8
+      },
+      "Title": "post1",
+      "Body": "maybe it will work",
+      "IsPrivate": false
+    },
+    {
+      "Id": 11,
+      "Owner": {
+        "UserName": "Kateryna",
+        "Password": "123",
+        "Id": 12
+      },
+      "Title": "Hello Via",
+      "Body": "Hello Horsens",
+      "IsPrivate": false
+    },
+    {
+      "Id": 12,
+      "Owner": {
+        "UserName": "Kateryna",
+        "Password": "123",
+        "Id": 12
+      },
+      "Title": "Hello Via Univer",
+      "Body": "Horsens",
+      "IsPrivate": false
+    },
+    {
+      "Id": 13,
+      "Owner": {
+        "UserName": "Kateryna",
+        "Password": "123",
+        "Id": 12
+      },
+      "Title": "Hello",
+      "Body": "Hello ",
+      "IsPrivate": false
+    }
+  ]
+}

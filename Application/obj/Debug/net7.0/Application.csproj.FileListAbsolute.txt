@@ -1,0 +1,60 @@
+/Users/dominikakrullova/RiderProjects/Handin1/Application/bin/Debug/net7.0/Application.deps.json
+/Users/dominikakrullova/RiderProjects/Handin1/Application/bin/Debug/net7.0/Application.dll
+/Users/dominikakrullova/RiderProjects/Handin1/Application/bin/Debug/net7.0/Application.pdb
+/Users/dominikakrullova/RiderProjects/Handin1/Application/bin/Debug/net7.0/Models.dll
+/Users/dominikakrullova/RiderProjects/Handin1/Application/bin/Debug/net7.0/Models.pdb
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.dll
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/Application.pdb
+/Users/dominikakrullova/RiderProjects/Handin1/Application/obj/Debug/net7.0/ref/Application.dll
+/Users/dominikakrullova/Desktop/Handin1/Application/bin/Debug/net7.0/Application.deps.json
+/Users/dominikakrullova/Desktop/Handin1/Application/bin/Debug/net7.0/Application.dll
+/Users/dominikakrullova/Desktop/Handin1/Application/bin/Debug/net7.0/Application.pdb
+/Users/dominikakrullova/Desktop/Handin1/Application/bin/Debug/net7.0/Models.dll
+/Users/dominikakrullova/Desktop/Handin1/Application/bin/Debug/net7.0/Models.pdb
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.csproj.AssemblyReference.cache
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.AssemblyInfoInputs.cache
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.AssemblyInfo.cs
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.csproj.CoreCompileInputs.cache
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.csproj.CopyComplete
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.dll
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/refint/Application.dll
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/Application.pdb
+/Users/dominikakrullova/Desktop/Handin1/Application/obj/Debug/net7.0/ref/Application.dll
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\bin\Debug\net7.0\Application.dll
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\bin\Debug\net7.0\Models.dll
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\bin\Debug\net7.0\Models.pdb
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.dll
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\pind9\Downloads\csharp1-2\csharp1-2\Application\obj\Debug\net7.0\ref\Application.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\bin\Debug\net7.0\Application.deps.json
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\bin\Debug\net7.0\Application.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\bin\Debug\net7.0\Application.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\bin\Debug\net7.0\Models.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\bin\Debug\net7.0\Models.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.csproj.AssemblyReference.cache
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.AssemblyInfoInputs.cache
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.AssemblyInfo.cs
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.csproj.CopyComplete
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\refint\Application.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\Application.pdb
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\Application\obj\Debug\net7.0\ref\Application.dll
