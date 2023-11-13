@@ -27,7 +27,7 @@ public class PostsController : ControllerBase
             return StatusCode(500, e.Message);
         }
     }
-    
+    //comment
     [HttpGet]
     public async Task<ActionResult<IEnumerable<Post>>> GetAsync()
     {
