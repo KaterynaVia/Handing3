@@ -31,6 +31,11 @@ public class PostFileDao : IPostDao
         return Task.FromResult(post);
     }
 
+    public Task<IEnumerable<Post>> GetAsync(SearchPostParametersDto searchParams)
+    {
+        throw new NotImplementedException();
+    }
+
     public Task<IEnumerable<Post>> GetAsync()
     {
         IEnumerable<Post> result = context.Posts.AsEnumerable();
@@ -56,5 +61,10 @@ public class PostFileDao : IPostDao
     {
         Post? existing = context.Posts.FirstOrDefault(p => p.Id == id);
         return Task.FromResult(existing);
+    }
+
+    public Task UpdateAsync(Post post)
+    {
+        throw new NotImplementedException();
     }
 }

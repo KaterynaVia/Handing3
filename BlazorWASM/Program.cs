@@ -20,7 +20,7 @@ builder.Services.AddScoped(
     sp => 
         new HttpClient { 
             BaseAddress = new Uri("http://localhost:7072/") 
-        }
+        }     
 );
 builder.Services.AddScoped<IUserService, UserHttpClient>();
 builder.Services.AddScoped<IPostService, PostHttpClient>();

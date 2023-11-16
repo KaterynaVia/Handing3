@@ -1,6 +1,7 @@
 using System.Text;
 using Application.DaoInterfaces;
 using Application.Logic;
+using EfcDataAccess;
 using EfcDataAccess.DAOs;
 using FileData;
 using Models.DTOs;
@@ -24,7 +25,7 @@ builder.Services.AddScoped<IUserLogic, UserLogic>();
 builder.Services.AddScoped<IPostDao, PostEfcDao>();
 builder.Services.AddScoped<IPostLogic, PostLogic>();
 builder.Services.AddScoped<IAuthService, AuthService>();
-
+builder.Services.AddDbContext<PostContext>();
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme).AddJwtBearer(options =>
 {
     options.RequireHttpsMetadata = false;

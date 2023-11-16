@@ -66,3 +66,5 @@ C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\File
 C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\FileData\obj\Debug\net7.0\refint\FileData.dll
 C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\FileData\obj\Debug\net7.0\FileData.pdb
 C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\FileData\obj\Debug\net7.0\ref\FileData.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\FileData\bin\Debug\net7.0\FileData.runtimeconfig.json
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\FileData\obj\Debug\net7.0\FileData.genruntimeconfig.cache

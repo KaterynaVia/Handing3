@@ -35,7 +35,7 @@ using Models.DTOs;
             }
         }
         
-        public async Task<ICollection<Post>> GetAsync(User? username, string? title, string? body)
+        public async Task<ICollection<Post>> GetAsync(SearchPostParametersDto searchPostParametersDto)
         {
             HttpResponseMessage response = await client.GetAsync("/posts");
             string content = await response.Content.ReadAsStringAsync();

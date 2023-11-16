@@ -1,3 +1,5 @@
+using System.Text.Json.Serialization;
+
 namespace Models;
 
 public class User
@@ -6,4 +8,10 @@ public class User
     public string Password { get; set; }
 
     public int Id { get; set; }
+    
+   
+    public User()
+    {
+        
+    }
 }

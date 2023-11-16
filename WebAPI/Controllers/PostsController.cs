@@ -29,12 +29,12 @@ public class PostsController : ControllerBase
     }
     //comment
     [HttpGet]
-    public async Task<ActionResult<IEnumerable<Post>>> GetAsync()
+    public async Task<ActionResult<IEnumerable<Post>>> GetAsync([FromQuery] string? userName,[FromQuery] int? userId, [FromQuery] string? body, [FromQuery] bool? status)
     {
         try
         {
-            //SearchPostParametersDto parameters = new(userName, userId, body);
-            var posts = await postLogic.GetAsync();
+            SearchPostParametersDto parameters = new(userName, userId, status, body);
+            var posts = await postLogic.GetAsync(parameters);
             return Ok(posts);
         }
         catch (Exception e)

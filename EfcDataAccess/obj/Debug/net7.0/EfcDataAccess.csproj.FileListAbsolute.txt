@@ -15,3 +15,5 @@ C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcD
 C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\refint\EfcDataAccess.dll
 C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.pdb
 C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\ref\EfcDataAccess.dll
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\bin\Debug\net7.0\EfcDataAccess.runtimeconfig.json
+C:\Users\pind9\OneDrive\Dokumenter\Semester3\DNP1\Handing 3\csharp3\csharp3\EfcDataAccess\obj\Debug\net7.0\EfcDataAccess.genruntimeconfig.cache

@@ -31,7 +31,12 @@ public class PostLogic : IPostLogic
 
     public async Task<IEnumerable<Post>> GetAsync()
     {
-        return await postDao.GetAsync();
+     return await postDao.GetAsync(new SearchPostParametersDto(null, null, null, null));
+    }
+
+    public async Task<IEnumerable<Post>> GetAsync(SearchPostParametersDto searchParameters)
+    {
+        return await postDao.GetAsync(searchParameters);
     }
 
     private void ValidatePost(PostCreationDto dto)

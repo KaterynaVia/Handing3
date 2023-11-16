@@ -1,41 +1,89 @@
 ﻿using Application.DaoInterfaces;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.ChangeTracking;
 using Models;
 using Models.DTOs;
 
 
 namespace EfcDataAccess.DAOs;
 
-public class PostEfcDao:IPostDao
+public class PostEfcDao : IPostDao
 {
-    public Task<Post> CreateAsync(Post post)
+    private readonly PostContext context;
+    public PostEfcDao(PostContext context)
     {
-        throw new NotImplementedException();
+        this.context = context;
+    }
+    public async Task<Post> CreateAsync(Post post)
+    {
+      
+        EntityEntry<Post> added = await context.Posts.AddAsync(post);
+            await context.SaveChangesAsync();
+            return added.Entity;
     }
 
-    public Task<IEnumerable<Post>> GetAsync()
+   /*public Task<IEnumerable<Post>> GetAsync()
     {
         throw new NotImplementedException();
+    }*/
+
+
+    public async Task<IEnumerable<Post>> GetAsync(SearchPostParametersDto searchParams)
+    {
+        IQueryable<Post> query = context.Posts.Include(post => post.Owner).AsQueryable();
+    
+        if (!string.IsNullOrEmpty(searchParams.Username))
+        {
+            // we know username is unique, so just fetch the first
+            query = query.Where(post =>
+                post.Owner.UserName.ToLower().Equals(searchParams.Username.ToLower()));
+        }
+    
+        if (searchParams.UserId != null)
+        {
+            query = query.Where(t => t.Owner.Id == searchParams.UserId);
+        }
+    
+        if (searchParams.CompletedStatus != null)
+        {
+            query = query.Where(t => t.IsPrivate == searchParams.CompletedStatus);
+        }
+    
+        if (!string.IsNullOrEmpty(searchParams.TitleContains))
+        {
+            query = query.Where(t =>
+                t.Title.ToLower().Contains(searchParams.TitleContains.ToLower()));
+        }
+
+        List<Post> result = await query.ToListAsync();
+        return result;
     }
 
-
-    public Task<IEnumerable<Post>> GetAsync(SearchPostParametersDto searchParameters)
+    public async Task UpdateAsync(Post post)
     {
-        throw new NotImplementedException();
+        context.Posts.Update(post);
+        await context.SaveChangesAsync();
     }
 
-    public Task UpdateAsync(Post post)
+    public async Task<Post?> GetByIdAsync(int postId)
     {
-        throw new NotImplementedException();
+        Post? found = await context.Posts
+            .Where(post => post.Id == postId)
+            // .Include(post => post.Owner)
+            .SingleOrDefaultAsync();
+        return found;
     }
 
-    public Task<Post?> GetByIdAsync(int postId)
+    public async Task DeleteAsync(int id)
     {
-        throw new NotImplementedException();
-    }
+        Post? existing = await GetByIdAsync(id);
+        if (existing == null)
+        {
+            throw new Exception($"Todo with id {id} not found");
+        }
 
-    public Task DeleteAsync(int id)
-    {
-        throw new NotImplementedException();
+        context.Posts.Remove(existing);
+        await context.SaveChangesAsync();
     }
 }
 
